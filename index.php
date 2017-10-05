@@ -13,7 +13,9 @@ $naam = "arne";
     <title>Document</title>
 </head>
 <body>
-	<h1>Welkom  <?php echo $naam; ?> </h1>
+
+	<h1>Welkom <?php echo $naam; ?> </h1>
+
 </body>
 </html>
 
